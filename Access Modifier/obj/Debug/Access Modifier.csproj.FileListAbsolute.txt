@@ -4,3 +4,9 @@ C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Access Modifier\bin\Debug\A
 C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Access Modifier\obj\Debug\Access Modifier.csproj.CoreCompileInputs.cache
 C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Access Modifier\obj\Debug\Access Modifier.exe
 C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Access Modifier\obj\Debug\Access Modifier.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Access Modifier\bin\Debug\Access Modifier.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Access Modifier\bin\Debug\Access Modifier.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Access Modifier\bin\Debug\Access Modifier.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Access Modifier\obj\Debug\Access Modifier.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Access Modifier\obj\Debug\Access Modifier.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Access Modifier\obj\Debug\Access Modifier.pdb

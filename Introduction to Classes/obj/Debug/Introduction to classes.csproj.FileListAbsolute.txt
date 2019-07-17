@@ -12,3 +12,10 @@ C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Introduction to Classes\obj
 C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Introduction to Classes\obj\Debug\Introduction to Classes.csproj.CoreCompileInputs.cache
 C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Introduction to Classes\obj\Debug\ConsoleApp1.exe
 C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Introduction to Classes\obj\Debug\ConsoleApp1.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Introduction to Classes\bin\Debug\ConsoleApp1.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Introduction to Classes\bin\Debug\ConsoleApp1.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Introduction to Classes\bin\Debug\ConsoleApp1.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Introduction to Classes\obj\Debug\Introduction to Classes.csprojAssemblyReference.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Introduction to Classes\obj\Debug\Introduction to Classes.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Introduction to Classes\obj\Debug\ConsoleApp1.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Introduction to Classes\obj\Debug\ConsoleApp1.pdb

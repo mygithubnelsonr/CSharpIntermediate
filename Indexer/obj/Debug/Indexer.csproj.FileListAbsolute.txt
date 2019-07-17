@@ -1,0 +1,7 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Indexer\bin\Debug\Indexer.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Indexer\bin\Debug\Indexer.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Indexer\obj\Debug\Indexer.csprojAssemblyReference.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Indexer\obj\Debug\Indexer.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Indexer\obj\Debug\Indexer.pdb

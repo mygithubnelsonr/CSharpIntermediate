@@ -5,3 +5,10 @@ C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Methods\bin\Debug\Methods.e
 C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Methods\bin\Debug\Methods.pdb
 C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Methods\obj\Debug\Methods.exe
 C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Methods\obj\Debug\Methods.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Methods\bin\Debug\Methods.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Methods\bin\Debug\Methods.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Methods\bin\Debug\Methods.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Methods\obj\Debug\Methods.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Methods\obj\Debug\Methods.pdb
