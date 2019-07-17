@@ -1,0 +1,6 @@
+C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Properties\bin\Debug\Properties.exe.config
+C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Properties\bin\Debug\Properties.exe
+C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Properties\bin\Debug\Properties.pdb
+C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Properties\obj\Debug\Properties.exe
+C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Properties\obj\Debug\Properties.pdb

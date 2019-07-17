@@ -1,0 +1,6 @@
+C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Object Initializers\bin\Debug\Object Initializers.exe.config
+C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Object Initializers\bin\Debug\Object Initializers.exe
+C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Object Initializers\bin\Debug\Object Initializers.pdb
+C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Object Initializers\obj\Debug\Object Initializers.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Object Initializers\obj\Debug\Object Initializers.exe
+C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Object Initializers\obj\Debug\Object Initializers.pdb

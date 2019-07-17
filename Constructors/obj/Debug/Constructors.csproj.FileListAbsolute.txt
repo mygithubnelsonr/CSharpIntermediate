@@ -1,0 +1,6 @@
+C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Constructors\bin\Debug\ConsoleConstructorsApp1.exe.config
+C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Constructors\bin\Debug\ConsoleConstructorsApp1.exe
+C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Constructors\bin\Debug\ConsoleConstructorsApp1.pdb
+C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Constructors\obj\Debug\ConsoleConstructorsApp1.exe
+C:\Users\erone\source\repos\13_Udemy\C#_Intermediate\Constructors\obj\Debug\ConsoleConstructorsApp1.pdb
