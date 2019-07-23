@@ -2,21 +2,55 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction to Classes", "Introduction to Classes\Introduction to Classes.csproj", "{B9B989B1-B1AE-4977-8B59-3947586D38F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Introduction to Classes", "2. Classes\07. Introduction to Classes\07. Introduction to Classes.csproj", "{B9B989B1-B1AE-4977-8B59-3947586D38F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{2D25701B-61AB-47CA-BB07-45BD2A2DD8C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Constructors", "2. Classes\08. Constructors\08. Constructors.csproj", "{2D25701B-61AB-47CA-BB07-45BD2A2DD8C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object Initializers", "Object Initializers\Object Initializers.csproj", "{6AF97347-3993-4F3C-9A14-7978C7BAFE6C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Object Initializers", "2. Classes\09. Object Initializers\09. Object Initializers.csproj", "{6AF97347-3993-4F3C-9A14-7978C7BAFE6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{FE3158DB-DB85-4032-8856-43050D9BA5F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Methods", "2. Classes\10. Methods\10. Methods.csproj", "{FE3158DB-DB85-4032-8856-43050D9BA5F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fields", "Fields\Fields.csproj", "{438EDD1D-30B2-47CB-B5D4-AFDC37593CFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Fields", "2. Classes\11. Fields\11. Fields.csproj", "{438EDD1D-30B2-47CB-B5D4-AFDC37593CFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Access Modifier", "Access Modifier\Access Modifier.csproj", "{15503CDF-7117-49E2-BA62-86AAC87D27F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Access Modifier", "2. Classes\12. Access Modifier\12. Access Modifier.csproj", "{15503CDF-7117-49E2-BA62-86AAC87D27F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Properties\Properties.csproj", "{358A3239-892D-46DF-9D24-8595A5105DE2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Properties", "2. Classes\13. Properties\13. Properties.csproj", "{358A3239-892D-46DF-9D24-8595A5105DE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexer", "Indexer\Indexer.csproj", "{36DD4A3E-F3D3-4C23-914B-4D93D5391318}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Indexer", "2. Classes\14. Indexer\14. Indexer.csproj", "{36DD4A3E-F3D3-4C23-914B-4D93D5391318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18. Inheritance", "3. Associatrion between classes\18. Inheritance\18. Inheritance.csproj", "{2E736775-C935-4B18-A80E-A3280E46EF8F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Classes", "2. Classes", "{06387A5D-5250-49F4-8B79-E868F806D0DA}"
+	ProjectSection(SolutionItems) = preProject
+		Exercises-Classes.pdf = Exercises-Classes.pdf
+		Summary-Classes.pdf = Summary-Classes.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Associatrion between classes", "3. Associatrion between classes", "{B6926AD0-CB9E-48CA-A4C6-E94867CC57A0}"
+	ProjectSection(SolutionItems) = preProject
+		Summary-Association-between-Classes.pdf = Summary-Association-between-Classes.pdf
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19. Composition", "3. Associatrion between classes\19. Composition\19. Composition.csproj", "{2F929B95-88CD-485F-A2EA-AD13D7BF7CBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20. Favour Composition over Inheritance", "3. Associatrion between classes\20. Favour Composition over Inheritance\20. Favour Composition over Inheritance.csproj", "{E5F98A98-F347-4F9B-B6F5-FB1EA300E7EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Inheritance - Second Pillar of OOP", "4. Inheritance - Second Pillar of OOP", "{805C9AAE-C80B-4E93-BA5B-927A0C9E5C78}"
+	ProjectSection(SolutionItems) = preProject
+		4. Inheritance - Second Pillar of OOP\Summary-Inheritance.pdf = 4. Inheritance - Second Pillar of OOP\Summary-Inheritance.pdf
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22. Access Modifiers", "4. Inheritance - Second Pillar of OOP\22. Access Modifiers\22. Access Modifiers.csproj", "{653958C2-A843-42CC-AE7A-1B18343A9DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22. Amazon", "4. Inheritance - Second Pillar of OOP\22. Amazon\22. Amazon.csproj", "{64A7A4D0-032C-439A-9D90-A8014AB21D37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23. Constructors and Inheritance", "4. Inheritance - Second Pillar of OOP\23. Constructors and Inheritance\23. Constructors and Inheritance.csproj", "{FAA37821-DB61-423B-AF16-867996C38A0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24. Upcasting and Downcasting", "4. Inheritance - Second Pillar of OOP\24. Upcasting and Downcasting\24. Upcasting and Downcasting.csproj", "{E84D1B1C-3676-4685-89EE-F1BE6F4D9F3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24. WpfApp1", "4. Inheritance - Second Pillar of OOP\24. WpfApp1\24. WpfApp1.csproj", "{96A91B1C-E53B-40A0-9B29-EE0F5FDEFBB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25. Boxing and Unboxing", "4. Inheritance - Second Pillar of OOP\25. Boxing and Unboxing\25. Boxing and Unboxing.csproj", "{027B9AB9-9F8F-4C19-AF84-E8E338EF4CDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,9 +90,64 @@ Global
 		{36DD4A3E-F3D3-4C23-914B-4D93D5391318}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36DD4A3E-F3D3-4C23-914B-4D93D5391318}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36DD4A3E-F3D3-4C23-914B-4D93D5391318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E736775-C935-4B18-A80E-A3280E46EF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E736775-C935-4B18-A80E-A3280E46EF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E736775-C935-4B18-A80E-A3280E46EF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E736775-C935-4B18-A80E-A3280E46EF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F929B95-88CD-485F-A2EA-AD13D7BF7CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F929B95-88CD-485F-A2EA-AD13D7BF7CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F929B95-88CD-485F-A2EA-AD13D7BF7CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F929B95-88CD-485F-A2EA-AD13D7BF7CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F98A98-F347-4F9B-B6F5-FB1EA300E7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F98A98-F347-4F9B-B6F5-FB1EA300E7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F98A98-F347-4F9B-B6F5-FB1EA300E7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F98A98-F347-4F9B-B6F5-FB1EA300E7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{653958C2-A843-42CC-AE7A-1B18343A9DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653958C2-A843-42CC-AE7A-1B18343A9DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653958C2-A843-42CC-AE7A-1B18343A9DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653958C2-A843-42CC-AE7A-1B18343A9DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64A7A4D0-032C-439A-9D90-A8014AB21D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A7A4D0-032C-439A-9D90-A8014AB21D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A7A4D0-032C-439A-9D90-A8014AB21D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A7A4D0-032C-439A-9D90-A8014AB21D37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA37821-DB61-423B-AF16-867996C38A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA37821-DB61-423B-AF16-867996C38A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA37821-DB61-423B-AF16-867996C38A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA37821-DB61-423B-AF16-867996C38A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E84D1B1C-3676-4685-89EE-F1BE6F4D9F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E84D1B1C-3676-4685-89EE-F1BE6F4D9F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E84D1B1C-3676-4685-89EE-F1BE6F4D9F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E84D1B1C-3676-4685-89EE-F1BE6F4D9F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A91B1C-E53B-40A0-9B29-EE0F5FDEFBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A91B1C-E53B-40A0-9B29-EE0F5FDEFBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A91B1C-E53B-40A0-9B29-EE0F5FDEFBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A91B1C-E53B-40A0-9B29-EE0F5FDEFBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{027B9AB9-9F8F-4C19-AF84-E8E338EF4CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027B9AB9-9F8F-4C19-AF84-E8E338EF4CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027B9AB9-9F8F-4C19-AF84-E8E338EF4CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027B9AB9-9F8F-4C19-AF84-E8E338EF4CDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B9B989B1-B1AE-4977-8B59-3947586D38F6} = {06387A5D-5250-49F4-8B79-E868F806D0DA}
+		{2D25701B-61AB-47CA-BB07-45BD2A2DD8C3} = {06387A5D-5250-49F4-8B79-E868F806D0DA}
+		{6AF97347-3993-4F3C-9A14-7978C7BAFE6C} = {06387A5D-5250-49F4-8B79-E868F806D0DA}
+		{FE3158DB-DB85-4032-8856-43050D9BA5F1} = {06387A5D-5250-49F4-8B79-E868F806D0DA}
+		{438EDD1D-30B2-47CB-B5D4-AFDC37593CFA} = {06387A5D-5250-49F4-8B79-E868F806D0DA}
+		{15503CDF-7117-49E2-BA62-86AAC87D27F1} = {06387A5D-5250-49F4-8B79-E868F806D0DA}
+		{358A3239-892D-46DF-9D24-8595A5105DE2} = {06387A5D-5250-49F4-8B79-E868F806D0DA}
+		{36DD4A3E-F3D3-4C23-914B-4D93D5391318} = {06387A5D-5250-49F4-8B79-E868F806D0DA}
+		{2E736775-C935-4B18-A80E-A3280E46EF8F} = {B6926AD0-CB9E-48CA-A4C6-E94867CC57A0}
+		{2F929B95-88CD-485F-A2EA-AD13D7BF7CBE} = {B6926AD0-CB9E-48CA-A4C6-E94867CC57A0}
+		{E5F98A98-F347-4F9B-B6F5-FB1EA300E7EB} = {B6926AD0-CB9E-48CA-A4C6-E94867CC57A0}
+		{653958C2-A843-42CC-AE7A-1B18343A9DBA} = {805C9AAE-C80B-4E93-BA5B-927A0C9E5C78}
+		{64A7A4D0-032C-439A-9D90-A8014AB21D37} = {805C9AAE-C80B-4E93-BA5B-927A0C9E5C78}
+		{FAA37821-DB61-423B-AF16-867996C38A0C} = {805C9AAE-C80B-4E93-BA5B-927A0C9E5C78}
+		{E84D1B1C-3676-4685-89EE-F1BE6F4D9F3A} = {805C9AAE-C80B-4E93-BA5B-927A0C9E5C78}
+		{96A91B1C-E53B-40A0-9B29-EE0F5FDEFBB3} = {805C9AAE-C80B-4E93-BA5B-927A0C9E5C78}
+		{027B9AB9-9F8F-4C19-AF84-E8E338EF4CDB} = {805C9AAE-C80B-4E93-BA5B-927A0C9E5C78}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {525EB716-679F-417E-9E63-9D19F0094E24}

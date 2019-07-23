@@ -1,0 +1,11 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\24. Upcasting and Downcasting\obj\Debug\24. Upcasting and Downcasting.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\24. Upcasting and Downcasting\bin\Debug\24.Upcasting_and_Downcasting.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\24. Upcasting and Downcasting\bin\Debug\24.Upcasting_and_Downcasting.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\24. Upcasting and Downcasting\obj\Debug\24.Upcasting_and_Downcasting.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\24. Upcasting and Downcasting\obj\Debug\24.Upcasting_and_Downcasting.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\24. Upcasting and Downcasting\obj\Debug\24. Upcasting and Downcasting.csprojAssemblyReference.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\24. Upcasting and Downcasting\bin\Debug\24.Upcasting_and_Downcasting.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\24. Upcasting and Downcasting\bin\Debug\24.Upcasting_and_Downcasting.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\24. Upcasting and Downcasting\obj\Debug\24. Upcasting and Downcasting.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\24. Upcasting and Downcasting\obj\Debug\24.Upcasting_and_Downcasting.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\24. Upcasting and Downcasting\obj\Debug\24.Upcasting_and_Downcasting.pdb

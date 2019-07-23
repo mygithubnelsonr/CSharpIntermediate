@@ -1,0 +1,6 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\07. Introduction to Classes\bin\Debug\ConsoleApp1.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\07. Introduction to Classes\bin\Debug\ConsoleApp1.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\07. Introduction to Classes\bin\Debug\ConsoleApp1.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\07. Introduction to Classes\obj\Debug\07. Introduction to Classes.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\07. Introduction to Classes\obj\Debug\ConsoleApp1.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\07. Introduction to Classes\obj\Debug\ConsoleApp1.pdb

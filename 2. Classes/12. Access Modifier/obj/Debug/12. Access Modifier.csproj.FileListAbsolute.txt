@@ -1,0 +1,14 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Access Modifier\bin\Debug\Access Modifier.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Access Modifier\bin\Debug\Access Modifier.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Access Modifier\bin\Debug\Access Modifier.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Access Modifier\obj\Debug\12. Access Modifier.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Access Modifier\obj\Debug\Access Modifier.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Access Modifier\obj\Debug\Access Modifier.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Access Modifier\bin\Debug\Access Modifier.exe.CodeAnalysisLog.xml
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Access Modifier\bin\Debug\Access Modifier.exe.lastcodeanalysissucceeded
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\12. Access Modifier\bin\Debug\Access Modifier.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\12. Access Modifier\bin\Debug\Access Modifier.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\12. Access Modifier\bin\Debug\Access Modifier.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\12. Access Modifier\obj\Debug\12. Access Modifier.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\12. Access Modifier\obj\Debug\Access Modifier.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\12. Access Modifier\obj\Debug\Access Modifier.pdb

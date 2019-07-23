@@ -1,0 +1,7 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Composition\bin\Debug\Composition.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Composition\bin\Debug\Composition.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Composition\bin\Debug\Composition.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Composition\obj\Debug\Composition.csprojAssemblyReference.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Composition\obj\Debug\Composition.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Composition\obj\Debug\Composition.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Composition\obj\Debug\Composition.pdb

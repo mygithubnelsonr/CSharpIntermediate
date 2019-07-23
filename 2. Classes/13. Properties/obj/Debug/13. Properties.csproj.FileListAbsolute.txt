@@ -1,0 +1,14 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Properties\bin\Debug\Properties.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Properties\bin\Debug\Properties.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Properties\bin\Debug\Properties.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Properties\obj\Debug\13. Properties.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Properties\obj\Debug\Properties.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Properties\obj\Debug\Properties.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Properties\bin\Debug\Properties.exe.CodeAnalysisLog.xml
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Properties\bin\Debug\Properties.exe.lastcodeanalysissucceeded
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\13. Properties\bin\Debug\Properties.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\13. Properties\bin\Debug\Properties.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\13. Properties\bin\Debug\Properties.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\13. Properties\obj\Debug\13. Properties.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\13. Properties\obj\Debug\Properties.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\13. Properties\obj\Debug\Properties.pdb

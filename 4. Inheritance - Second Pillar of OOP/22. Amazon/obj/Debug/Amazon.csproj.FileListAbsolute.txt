@@ -1,0 +1,5 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Amazon\bin\Debug\Amazon.dll
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Amazon\bin\Debug\Amazon.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Amazon\obj\Debug\Amazon.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Amazon\obj\Debug\Amazon.dll
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Amazon\obj\Debug\Amazon.pdb

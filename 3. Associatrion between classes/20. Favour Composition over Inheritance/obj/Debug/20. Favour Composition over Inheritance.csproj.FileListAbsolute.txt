@@ -1,0 +1,7 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Favour Composition over Inheritance\obj\Debug\20. Favour Composition over Inheritance.csprojAssemblyReference.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Favour Composition over Inheritance\obj\Debug\20. Favour Composition over Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\3. Associatrion between classes\20. Favour Composition over Inheritance\obj\Debug\20. Favour Composition over Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\3. Associatrion between classes\20. Favour Composition over Inheritance\bin\Debug\Favour Composition over Inheritance.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\3. Associatrion between classes\20. Favour Composition over Inheritance\bin\Debug\Favour Composition over Inheritance.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\3. Associatrion between classes\20. Favour Composition over Inheritance\obj\Debug\Favour Composition over Inheritance.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\3. Associatrion between classes\20. Favour Composition over Inheritance\obj\Debug\Favour Composition over Inheritance.pdb

@@ -1,0 +1,13 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Inheritance\obj\Debug\18. Inheritance.csprojAssemblyReference.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Inheritance\obj\Debug\18. Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\3. Associatrion between classes\18. Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\3. Associatrion between classes\18. Inheritance\bin\Debug\Inheritance.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\3. Associatrion between classes\18. Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\3. Associatrion between classes\18. Inheritance\obj\Debug\18. Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\3. Associatrion between classes\18. Inheritance\obj\Debug\Inheritance.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\3. Associatrion between classes\18. Inheritance\obj\Debug\Inheritance.pdb

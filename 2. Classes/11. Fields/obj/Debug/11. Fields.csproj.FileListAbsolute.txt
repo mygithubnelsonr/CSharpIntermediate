@@ -1,0 +1,6 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\11. Fields\bin\Debug\Fields.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\11. Fields\bin\Debug\Fields.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\11. Fields\bin\Debug\Fields.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\11. Fields\obj\Debug\11. Fields.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\11. Fields\obj\Debug\Fields.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\11. Fields\obj\Debug\Fields.pdb

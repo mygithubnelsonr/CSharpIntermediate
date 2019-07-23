@@ -1,0 +1,7 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\09. Object Initializers\bin\Debug\Object Initializers.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\09. Object Initializers\bin\Debug\Object Initializers.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\09. Object Initializers\bin\Debug\Object Initializers.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\09. Object Initializers\obj\Debug\09. Object Initializers.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\09. Object Initializers\obj\Debug\Object Initializers.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\09. Object Initializers\obj\Debug\Object Initializers.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\09. Object Initializers\obj\Debug\09. Object Initializers.csprojAssemblyReference.cache

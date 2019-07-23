@@ -1,0 +1,12 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Composition\bin\Debug\Composition.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Composition\bin\Debug\Composition.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Composition\bin\Debug\Composition.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Composition\obj\Debug\19. Composition.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Composition\obj\Debug\Composition.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Composition\obj\Debug\Composition.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\3. Associatrion between classes\19. Composition\bin\Debug\Composition.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\3. Associatrion between classes\19. Composition\bin\Debug\Composition.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\3. Associatrion between classes\19. Composition\bin\Debug\Composition.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\3. Associatrion between classes\19. Composition\obj\Debug\19. Composition.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\3. Associatrion between classes\19. Composition\obj\Debug\Composition.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\3. Associatrion between classes\19. Composition\obj\Debug\Composition.pdb

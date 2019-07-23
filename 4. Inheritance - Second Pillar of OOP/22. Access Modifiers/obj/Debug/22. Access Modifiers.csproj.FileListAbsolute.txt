@@ -1,0 +1,17 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\22. Access Modifiers\bin\Debug\_22.Access_Modifiers.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\22. Access Modifiers\bin\Debug\_22.Access_Modifiers.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\22. Access Modifiers\bin\Debug\_22.Access_Modifiers.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\22. Access Modifiers\obj\Debug\22. Access Modifiers.csprojAssemblyReference.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\22. Access Modifiers\obj\Debug\22. Access Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\22. Access Modifiers\obj\Debug\_22.Access_Modifiers.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\22. Access Modifiers\obj\Debug\_22.Access_Modifiers.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\22. Access Modifiers\bin\Debug\_22.Access_Modifiers.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\22. Access Modifiers\bin\Debug\_22.Access_Modifiers.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\22. Access Modifiers\bin\Debug\_22.Access_Modifiers.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\22. Access Modifiers\obj\Debug\22. Access Modifiers.csprojAssemblyReference.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\22. Access Modifiers\obj\Debug\22. Access Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\22. Access Modifiers\obj\Debug\_22.Access_Modifiers.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\22. Access Modifiers\obj\Debug\_22.Access_Modifiers.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\22. Access Modifiers\bin\Debug\Amazon.dll
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\22. Access Modifiers\bin\Debug\Amazon.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\22. Access Modifiers\obj\Debug\22. Access Modifiers.csproj.CopyComplete

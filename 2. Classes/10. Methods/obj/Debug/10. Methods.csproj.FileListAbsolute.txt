@@ -1,0 +1,6 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\10. Methods\bin\Debug\Methods.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\10. Methods\bin\Debug\Methods.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\10. Methods\bin\Debug\Methods.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\10. Methods\obj\Debug\10. Methods.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\10. Methods\obj\Debug\Methods.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\2. Classes\10. Methods\obj\Debug\Methods.pdb
