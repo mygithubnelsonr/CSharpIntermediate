@@ -5,3 +5,9 @@ C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Boxing and Unboxing\obj\
 C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Boxing and Unboxing\obj\Debug\25. Boxing and Unboxing.csproj.CoreCompileInputs.cache
 C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Boxing and Unboxing\obj\Debug\Boxing and Unboxing.exe
 C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Boxing and Unboxing\obj\Debug\Boxing and Unboxing.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\25. Boxing and Unboxing\bin\Debug\Boxing and Unboxing.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\25. Boxing and Unboxing\bin\Debug\Boxing and Unboxing.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\25. Boxing and Unboxing\bin\Debug\Boxing and Unboxing.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\25. Boxing and Unboxing\obj\Debug\25. Boxing and Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\25. Boxing and Unboxing\obj\Debug\Boxing and Unboxing.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\25. Boxing and Unboxing\obj\Debug\Boxing and Unboxing.pdb

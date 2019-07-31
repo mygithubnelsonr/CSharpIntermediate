@@ -1,7 +1,6 @@
 C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\24. WpfApp1\bin\Debug\WpfApp1.exe.config
 C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\24. WpfApp1\bin\Debug\WpfApp1.exe
 C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\24. WpfApp1\bin\Debug\WpfApp1.pdb
-C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\24. WpfApp1\obj\Debug\24. WpfApp1.csprojAssemblyReference.cache
 C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\24. WpfApp1\obj\Debug\MainWindow.g.cs
 C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\24. WpfApp1\obj\Debug\App.g.cs
 C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\24. WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache

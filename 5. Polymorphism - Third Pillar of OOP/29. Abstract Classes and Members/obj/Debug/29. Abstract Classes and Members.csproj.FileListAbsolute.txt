@@ -1,0 +1,13 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\29. Abstract Classes and Members\bin\Debug\Abstract Classes and Members.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\29. Abstract Classes and Members\bin\Debug\Abstract Classes and Members.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\29. Abstract Classes and Members\bin\Debug\Abstract Classes and Members.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\29. Abstract Classes and Members\obj\Debug\29. Abstract Classes and Members.csprojAssemblyReference.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\29. Abstract Classes and Members\obj\Debug\29. Abstract Classes and Members.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\29. Abstract Classes and Members\obj\Debug\Abstract Classes and Members.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\29. Abstract Classes and Members\obj\Debug\Abstract Classes and Members.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\5. Polymorphism - Third Pillar of OOP\29. Abstract Classes and Members\bin\Debug\Abstract Classes and Members.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\5. Polymorphism - Third Pillar of OOP\29. Abstract Classes and Members\bin\Debug\Abstract Classes and Members.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\5. Polymorphism - Third Pillar of OOP\29. Abstract Classes and Members\bin\Debug\Abstract Classes and Members.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\5. Polymorphism - Third Pillar of OOP\29. Abstract Classes and Members\obj\Debug\29. Abstract Classes and Members.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\5. Polymorphism - Third Pillar of OOP\29. Abstract Classes and Members\obj\Debug\Abstract Classes and Members.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\5. Polymorphism - Third Pillar of OOP\29. Abstract Classes and Members\obj\Debug\Abstract Classes and Members.pdb

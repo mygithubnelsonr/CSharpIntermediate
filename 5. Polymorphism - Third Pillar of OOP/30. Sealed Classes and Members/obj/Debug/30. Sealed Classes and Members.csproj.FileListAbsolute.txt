@@ -1,0 +1,6 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\5. Polymorphism - Third Pillar of OOP\30. Sealed Classes and Members\bin\Debug\Sealed_Classes_and_Members.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\5. Polymorphism - Third Pillar of OOP\30. Sealed Classes and Members\bin\Debug\Sealed_Classes_and_Members.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\5. Polymorphism - Third Pillar of OOP\30. Sealed Classes and Members\bin\Debug\Sealed_Classes_and_Members.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\5. Polymorphism - Third Pillar of OOP\30. Sealed Classes and Members\obj\Debug\30. Sealed Classes and Members.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\5. Polymorphism - Third Pillar of OOP\30. Sealed Classes and Members\obj\Debug\Sealed_Classes_and_Members.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\5. Polymorphism - Third Pillar of OOP\30. Sealed Classes and Members\obj\Debug\Sealed_Classes_and_Members.pdb

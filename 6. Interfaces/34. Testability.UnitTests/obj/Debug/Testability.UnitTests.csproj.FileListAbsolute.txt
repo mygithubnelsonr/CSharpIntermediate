@@ -1,0 +1,25 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\Testability.UnitTests.dll
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\Testability.UnitTests.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\Interfaces and Testability.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\Interfaces and Testability.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\Interfaces and Testability.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\obj\Debug\Testability.UnitTests.csprojAssemblyReference.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\obj\Debug\Testability.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\obj\Debug\Testability.UnitTests.csproj.CopyComplete
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\obj\Debug\Testability.UnitTests.dll
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\obj\Debug\Testability.UnitTests.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\NClap.dll
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\netstandard.dll
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\NClap.xml
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Testability.UnitTests\bin\Debug\Microsoft.Extensions.DependencyInjection.xml

@@ -1,0 +1,7 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces and Extensibility\bin\Debug\Interfaces and Extensibility.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces and Extensibility\bin\Debug\Interfaces and Extensibility.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces and Extensibility\bin\Debug\Interfaces and Extensibility.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces and Extensibility\obj\Debug\35. Interfaces and Extensibility.csprojAssemblyReference.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces and Extensibility\obj\Debug\35. Interfaces and Extensibility.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces and Extensibility\obj\Debug\Interfaces and Extensibility.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces and Extensibility\obj\Debug\Interfaces and Extensibility.pdb

@@ -37,6 +37,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20. Favour Composition over
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Inheritance - Second Pillar of OOP", "4. Inheritance - Second Pillar of OOP", "{805C9AAE-C80B-4E93-BA5B-927A0C9E5C78}"
 	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\Exercises-Inheritance.pdf = ..\..\..\..\Downloads\Exercises-Inheritance.pdf
 		4. Inheritance - Second Pillar of OOP\Summary-Inheritance.pdf = 4. Inheritance - Second Pillar of OOP\Summary-Inheritance.pdf
 	EndProjectSection
 EndProject
@@ -51,6 +52,26 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24. WpfApp1", "4. Inheritance - Second Pillar of OOP\24. WpfApp1\24. WpfApp1.csproj", "{96A91B1C-E53B-40A0-9B29-EE0F5FDEFBB3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25. Boxing and Unboxing", "4. Inheritance - Second Pillar of OOP\25. Boxing and Unboxing\25. Boxing and Unboxing.csproj", "{027B9AB9-9F8F-4C19-AF84-E8E338EF4CDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28. Method Overriding", "5. Polymorphism - Third Pillar of OOP\28. Method Overriding\28. Method Overriding.csproj", "{0B81D02A-5F40-4771-9888-FC161D3FE8F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29. Abstract Classes and Members", "5. Polymorphism - Third Pillar of OOP\29. Abstract Classes and Members\29. Abstract Classes and Members.csproj", "{77F7C169-BD94-4DEA-850F-41C087D4F152}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30. Sealed Classes and Members", "5. Polymorphism - Third Pillar of OOP\30. Sealed Classes and Members\30. Sealed Classes and Members.csproj", "{FF06DA76-4BC7-4320-8E4A-E5954E6A7191}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Polymorphism - Third Pillar of OOP", "5. Polymorphism - Third Pillar of OOP", "{7011A0D2-1F03-4E43-B121-17B3676EA63C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\Exercises-Polymorphism.pdf = ..\..\..\..\Downloads\Exercises-Polymorphism.pdf
+		..\..\..\..\Downloads\Summary-Polymorphism.pdf = ..\..\..\..\Downloads\Summary-Polymorphism.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Interfaces", "6. Interfaces", "{910EF695-9A17-4246-B23D-0CB120B3050A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34. Interfaces and Testability", "6. Interfaces\34. Interfaces and Testability\34. Interfaces and Testability.csproj", "{1474767A-7A98-4087-B7E2-CB10657A8EBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34. Testability.UnitTests", "6. Interfaces\34. Testability.UnitTests\34. Testability.UnitTests.csproj", "{E10B3251-EA14-49C2-B43B-20F6C397ED32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35. Interfaces and Extensibility", "6. Interfaces\35. Interfaces and Extensibility\35. Interfaces and Extensibility.csproj", "{1C3C1CCC-162E-4ED0-90F2-CD9EA342D11F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -126,6 +147,30 @@ Global
 		{027B9AB9-9F8F-4C19-AF84-E8E338EF4CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{027B9AB9-9F8F-4C19-AF84-E8E338EF4CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{027B9AB9-9F8F-4C19-AF84-E8E338EF4CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B81D02A-5F40-4771-9888-FC161D3FE8F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B81D02A-5F40-4771-9888-FC161D3FE8F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B81D02A-5F40-4771-9888-FC161D3FE8F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B81D02A-5F40-4771-9888-FC161D3FE8F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F7C169-BD94-4DEA-850F-41C087D4F152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F7C169-BD94-4DEA-850F-41C087D4F152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F7C169-BD94-4DEA-850F-41C087D4F152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F7C169-BD94-4DEA-850F-41C087D4F152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF06DA76-4BC7-4320-8E4A-E5954E6A7191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF06DA76-4BC7-4320-8E4A-E5954E6A7191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF06DA76-4BC7-4320-8E4A-E5954E6A7191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF06DA76-4BC7-4320-8E4A-E5954E6A7191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1474767A-7A98-4087-B7E2-CB10657A8EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1474767A-7A98-4087-B7E2-CB10657A8EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1474767A-7A98-4087-B7E2-CB10657A8EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1474767A-7A98-4087-B7E2-CB10657A8EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E10B3251-EA14-49C2-B43B-20F6C397ED32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10B3251-EA14-49C2-B43B-20F6C397ED32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10B3251-EA14-49C2-B43B-20F6C397ED32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10B3251-EA14-49C2-B43B-20F6C397ED32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3C1CCC-162E-4ED0-90F2-CD9EA342D11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3C1CCC-162E-4ED0-90F2-CD9EA342D11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3C1CCC-162E-4ED0-90F2-CD9EA342D11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3C1CCC-162E-4ED0-90F2-CD9EA342D11F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -148,6 +193,12 @@ Global
 		{E84D1B1C-3676-4685-89EE-F1BE6F4D9F3A} = {805C9AAE-C80B-4E93-BA5B-927A0C9E5C78}
 		{96A91B1C-E53B-40A0-9B29-EE0F5FDEFBB3} = {805C9AAE-C80B-4E93-BA5B-927A0C9E5C78}
 		{027B9AB9-9F8F-4C19-AF84-E8E338EF4CDB} = {805C9AAE-C80B-4E93-BA5B-927A0C9E5C78}
+		{0B81D02A-5F40-4771-9888-FC161D3FE8F0} = {7011A0D2-1F03-4E43-B121-17B3676EA63C}
+		{77F7C169-BD94-4DEA-850F-41C087D4F152} = {7011A0D2-1F03-4E43-B121-17B3676EA63C}
+		{FF06DA76-4BC7-4320-8E4A-E5954E6A7191} = {7011A0D2-1F03-4E43-B121-17B3676EA63C}
+		{1474767A-7A98-4087-B7E2-CB10657A8EBF} = {910EF695-9A17-4246-B23D-0CB120B3050A}
+		{E10B3251-EA14-49C2-B43B-20F6C397ED32} = {910EF695-9A17-4246-B23D-0CB120B3050A}
+		{1C3C1CCC-162E-4ED0-90F2-CD9EA342D11F} = {910EF695-9A17-4246-B23D-0CB120B3050A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {525EB716-679F-417E-9E63-9D19F0094E24}
