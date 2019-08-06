@@ -1,0 +1,7 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces and Polymorphism\bin\Debug\Interfaces and Polymorphism.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces and Polymorphism\bin\Debug\Interfaces and Polymorphism.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces and Polymorphism\bin\Debug\Interfaces and Polymorphism.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces and Polymorphism\obj\Debug\Interfaces and Polymorphism.csprojAssemblyReference.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces and Polymorphism\obj\Debug\Interfaces and Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces and Polymorphism\obj\Debug\Interfaces and Polymorphism.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces and Polymorphism\obj\Debug\Interfaces and Polymorphism.pdb

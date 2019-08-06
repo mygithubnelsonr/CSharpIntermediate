@@ -12,3 +12,4 @@ C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second 
 C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\24. WpfApp1\obj\Debug\24. WpfApp1.csproj.CoreCompileInputs.cache
 C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\24. WpfApp1\obj\Debug\WpfApp1.exe
 C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\24. WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\4. Inheritance - Second Pillar of OOP\24. WpfApp1\obj\Debug\24. WpfApp1.csprojAssemblyReference.cache

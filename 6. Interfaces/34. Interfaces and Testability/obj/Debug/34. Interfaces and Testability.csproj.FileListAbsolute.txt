@@ -109,3 +109,12 @@ C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces and Testabili
 C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces and Testability\bin\Debug\NClap.xml
 C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces and Testability\obj\Debug\Interfaces and Testability.exe.config
 C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces and Testability\obj\Debug\34. Interfaces and Testability.csproj.CopyComplete
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\34. Interfaces and Testability\bin\Debug\Interfaces and Testability.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\34. Interfaces and Testability\bin\Debug\Interfaces and Testability.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\34. Interfaces and Testability\bin\Debug\Interfaces and Testability.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\34. Interfaces and Testability\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\34. Interfaces and Testability\obj\Debug\34. Interfaces and Testability.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\34. Interfaces and Testability\obj\Debug\34. Interfaces and Testability.csproj.CopyComplete
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\34. Interfaces and Testability\obj\Debug\Interfaces and Testability.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\34. Interfaces and Testability\obj\Debug\Interfaces and Testability.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\34. Interfaces and Testability\obj\Debug\34. Interfaces and Testability.csprojAssemblyReference.cache

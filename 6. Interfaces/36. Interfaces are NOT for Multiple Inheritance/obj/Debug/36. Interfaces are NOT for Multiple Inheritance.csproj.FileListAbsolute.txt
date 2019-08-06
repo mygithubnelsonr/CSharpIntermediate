@@ -1,0 +1,12 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces are NOT for Multiple Inheritance\bin\Debug\Interfaces are NOT for Multiple Inheritance.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces are NOT for Multiple Inheritance\bin\Debug\Interfaces are NOT for Multiple Inheritance.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces are NOT for Multiple Inheritance\bin\Debug\Interfaces are NOT for Multiple Inheritance.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces are NOT for Multiple Inheritance\obj\Debug\36. Interfaces are NOT for Multiple Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces are NOT for Multiple Inheritance\obj\Debug\Interfaces are NOT for Multiple Inheritance.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Interfaces are NOT for Multiple Inheritance\obj\Debug\Interfaces are NOT for Multiple Inheritance.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\36. Interfaces are NOT for Multiple Inheritance\bin\Debug\Interfaces are NOT for Multiple Inheritance.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\36. Interfaces are NOT for Multiple Inheritance\bin\Debug\Interfaces are NOT for Multiple Inheritance.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\36. Interfaces are NOT for Multiple Inheritance\bin\Debug\Interfaces are NOT for Multiple Inheritance.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\36. Interfaces are NOT for Multiple Inheritance\obj\Debug\36. Interfaces are NOT for Multiple Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\36. Interfaces are NOT for Multiple Inheritance\obj\Debug\Interfaces are NOT for Multiple Inheritance.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\36. Interfaces are NOT for Multiple Inheritance\obj\Debug\Interfaces are NOT for Multiple Inheritance.pdb

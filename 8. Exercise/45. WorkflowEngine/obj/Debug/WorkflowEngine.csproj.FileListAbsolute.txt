@@ -1,0 +1,7 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\WorkflowEngine\bin\Debug\WorkflowEngine.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\WorkflowEngine\bin\Debug\WorkflowEngine.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\WorkflowEngine\bin\Debug\WorkflowEngine.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\WorkflowEngine\obj\Debug\WorkflowEngine.csprojAssemblyReference.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\WorkflowEngine\obj\Debug\WorkflowEngine.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\WorkflowEngine\obj\Debug\WorkflowEngine.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\WorkflowEngine\obj\Debug\WorkflowEngine.pdb

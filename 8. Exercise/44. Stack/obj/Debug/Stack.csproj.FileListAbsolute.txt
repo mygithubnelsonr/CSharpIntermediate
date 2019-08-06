@@ -1,0 +1,7 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Stack\bin\Debug\Stack.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Stack\bin\Debug\Stack.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Stack\bin\Debug\Stack.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Stack\obj\Debug\Stack.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Stack\obj\Debug\Stack.pdb

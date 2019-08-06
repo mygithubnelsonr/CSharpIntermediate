@@ -1,0 +1,6 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\37. Interfaces and Polymorphism\bin\Debug\Interfaces and Polymorphism.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\37. Interfaces and Polymorphism\bin\Debug\Interfaces and Polymorphism.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\37. Interfaces and Polymorphism\bin\Debug\Interfaces and Polymorphism.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\37. Interfaces and Polymorphism\obj\Debug\37. Interfaces and Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\37. Interfaces and Polymorphism\obj\Debug\Interfaces and Polymorphism.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\6. Interfaces\37. Interfaces and Polymorphism\obj\Debug\Interfaces and Polymorphism.pdb

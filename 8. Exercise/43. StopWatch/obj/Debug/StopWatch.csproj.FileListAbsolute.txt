@@ -1,0 +1,7 @@
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Stop\bin\Debug\Stop.exe.config
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Stop\bin\Debug\Stop.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Stop\bin\Debug\Stop.pdb
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Stop\obj\Debug\StopWatch.csprojAssemblyReference.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Stop\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Stop\obj\Debug\Stop.exe
+C:\Users\erone\source\repos\13_Udemy\CSharpIntermediate\Stop\obj\Debug\Stop.pdb
